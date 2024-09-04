@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oryspundi.github.io/sitemap.html.gz
+Sitemap: https://oryspundi.github.io/app/sitemap.html.gz
+Sitemap: https://oryspundi.github.io/assets/sitemap.html.gz
+Sitemap: https://oryspundi.github.io/css/sitemap.html.gz
+Sitemap: https://oryspundi.github.io/includes/sitemap.html.gz
+Sitemap: https://oryspundi.github.io/item/sitemap.html.gz
+Sitemap: https://oryspundi.github.io/src/sitemap.html.gz
